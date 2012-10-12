@@ -11,7 +11,7 @@ VoiceBunny needs to display time and date to any visitor. If possible, that data
 
 ### Stakeholders and Interests
 
-***Visitor:** To be able to see accurate times and dates.
+**Visitor:** To be able to see accurate times and dates.
 
 **Merrcury:** To let visitors know when a date has been rendered using the local time of the computer.
 
