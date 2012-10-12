@@ -1,18 +1,19 @@
 #Instructions
 
 Read carefully the following use case description and implement it using the programming language of your choice.
-When you are ready, send us an email to wanted@voicebunny.com with you resumé and a link where we can check your solution
+When you are ready, **send us** an email to wanted@voicebunny.com with you resumé and a url where we can check your solution.
 
 # Print Time UC
 
 ### Context of Use
 
-Merrcury needs to display time and date to any visitor. If possible, that data should be displayed in the visitor's computer's local time format.
+VoiceBunny needs to display time and date to any visitor. If possible, that data should be displayed in the visitor's computer's local time format.
 
 ### Stakeholders and Interests
 
-Visitor: To be able to see accurate times and dates
-Merrcury: To let visitors know when a date has been rendered using the local time of the computer.
+***Visitor:** To be able to see accurate times and dates.
+
+**Merrcury:** To let visitors know when a date has been rendered using the local time of the computer.
 
 ### Success Guarantees
 
@@ -20,7 +21,7 @@ The time and date are printed in the local time of the computer.
 
 ### Triggers
 
-0100 - A user requests that SuD return an interface that requires times to be displayed.
+0100 - A user requests that SuD(System under Development) return an interface that requires times to be displayed.
 
 ### Main Scenario
 
